@@ -1,10 +1,12 @@
 #!/bin/bash
+echo "enter the name of your pet"
+read  pet
 
-if [[ $1 = "cat" ]]; then
+if [ "$pet" == "cat" ]; then
         echo "meowwwwwwwwwwwww"
-elif [[ $1 = "dog" ]]; then
+elif [ "$pet" == "dog" ]; then
       echo "wooooooof"
-elif [[ $1 = "cow" ]]; then
+elif [ "$pet" == "cow" ]; then
     echo "mooooooo"
 else
    echo "unknown animal"
