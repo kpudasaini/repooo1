@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Enter your first Name:"
+read Kamal
+echo "Enter your last name:"
+read Pudasaini
+
+echo ""
+echo "your full Name is: $Kamal $Pudasaini
+

@@ -1,0 +1,13 @@
+strawberry
+orange
+grapes
+banana
+mapple
+5 grapes
+4 strawberry
+3 orange
+2 grapes
+1 mapple
+ 
+
+
